@@ -54,6 +54,8 @@ h1{
     border-bottom-color: #fff;
   }
   #Contenido{
+    width: 1500px;
+    height: 1100px;  
     background-color: aqua;
     position: absolute;
     border-radius: 2%;
