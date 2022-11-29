@@ -55,10 +55,11 @@ h1{
   }
   #Contenido{
     width: 1500px;
-    height: 1100px;  
+    height: 1100px;
     background-color: aqua;
     position: absolute;
     border-radius: 2%;
+    left: 200px;
     text-align: justify;
     font-size: 15px;
     background-attachment: fixed;
